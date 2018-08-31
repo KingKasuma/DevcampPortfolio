@@ -18,7 +18,7 @@ end
 ```
 
 ```javascript
-alert('Hi there')
+alert('Hi there');
 ```
 
 This README would normally document whatever steps are necessary to get the
